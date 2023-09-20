@@ -1,0 +1,10 @@
+name = 'Mehmet'
+age = 36
+gender = 'M'
+company = 'Dotdash-Meredith'
+jobTitle = 'QA Automation Engineer'
+yearsOfExperience = 6
+salary = 92000.0
+is_fullTime = True
+is_married = True
+employee_id = 0
